@@ -1,6 +1,14 @@
 # Chatting App in Flutter And Firebase
 
 Flutter chatting app
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://habibullah339.github.io/Habib_profile/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-ullah-9938971b4/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Habibul33454718)
+
+
 ## Dependencies Used 
 
 Add these dependencies in Puspec.ymal  File.
@@ -24,7 +32,21 @@ Project is build on Following Platforms.
 `Firebase`
 
 `Dart`
- # Demo Images
+
+## Features
+- Chatting application
+- State Management
+- Hero Animation
+- Use of Streams
+- Animated Text
+- Hybrid Application
+- Routing
+- Firebase
+- Login and Signup
+- Firebase Authentication
+- Firebase FireStore
+ 
+## Demo Images
  <img src="https://github.com/Habibullah339/chatting_app_in_flutter_and_Firebase/blob/master/chat3.png">
  <img src="https://github.com/Habibullah339/chatting_app_in_flutter_and_Firebase/blob/master/chat1.png">
  <img src="https://github.com/Habibullah339/chatting_app_in_flutter_and_Firebase/blob/master/chat2.png">

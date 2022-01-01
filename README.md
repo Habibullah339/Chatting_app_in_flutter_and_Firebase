@@ -1,4 +1,4 @@
-# Chating App in Flutter And Firebase
+# Chatting App in Flutter And Firebase
 
 Flutter chatting app
 

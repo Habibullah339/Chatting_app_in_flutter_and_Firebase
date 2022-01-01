@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972166961563",
+    "project_id": "flash-chat-3736a",
+    "storage_bucket": "flash-chat-3736a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972166961563:android:c543ffa54ec754ac09a93e",
+        "android_client_info": {
+          "package_name": "com.example.vacations_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972166961563-lnge0pbl6vt7nnb5p7cs537k3kve6otf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBscpNL2pd7q-D4Ln9ORl_1VxhKG6PkueA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972166961563-lnge0pbl6vt7nnb5p7cs537k3kve6otf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

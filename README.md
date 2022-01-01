@@ -1,13 +1,7 @@
 # Chatting App in Flutter And Firebase
 
 Flutter chatting app
- # Demo Images
- <img src="https://github.com/Habibullah339/chatting_app_in_flutter_and_Firebase/blob/master/chat3.png">
- <img src="https://github.com/Habibullah339/chatting_app_in_flutter_and_Firebase/blob/master/chat1.png">
- <img src="https://github.com/Habibullah339/chatting_app_in_flutter_and_Firebase/blob/master/chat2.png">
-
-
-## Dependencied Used Thoughout the project
+## Dependencies Used 
 
 Add these dependencies in Puspec.ymal  File.
 
@@ -21,14 +15,24 @@ Add these dependencies in Puspec.ymal  File.
   awesome_dialog: ^2.1.2
   ms_undraw: ^3.0.1+1
 ```
+## Platform 
+
+Project is build on Following Platforms.
+
+`Flutter`
+
+`Firebase`
+
+`Dart`
+ # Demo Images
+ <img src="https://github.com/Habibullah339/chatting_app_in_flutter_and_Firebase/blob/master/chat3.png">
+ <img src="https://github.com/Habibullah339/chatting_app_in_flutter_and_Firebase/blob/master/chat1.png">
+ <img src="https://github.com/Habibullah339/chatting_app_in_flutter_and_Firebase/blob/master/chat2.png">
+
+
+
     
-## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
 
 
 ## Getting Started

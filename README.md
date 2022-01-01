@@ -1,6 +1,6 @@
-# vacations_chat_app
+# Chating App in Flutter And Firebase
 
-A new Flutter project.
+Flutter chatting app
 
 ## Getting Started
 

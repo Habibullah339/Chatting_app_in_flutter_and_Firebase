@@ -101,7 +101,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                           animType: AnimType.RIGHSLIDE,
                           headerAnimationLoop: true,
                           title: 'User Already  exist ',
-                          dialogBackgroundColor: Colors.black87,
+                          dialogBackgroundColor: Colors.white,
                           desc:
                               'User may already Exist. Try to Log In OR change Your Email ',
                           btnOkOnPress: () {
